@@ -24,3 +24,4 @@ Person actuator: http://localhost:8089/actuator
 * Test the Actuator
 * Fix Swagger
 * Create unit and integration tests
+* docker and docker compose/kubernetes for more han one instance per microservices registered on Eureka
