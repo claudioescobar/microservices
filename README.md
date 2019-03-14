@@ -19,7 +19,7 @@ Person actuator: http://localhost:8089/actuator
 **TODO**
 * Refactor the current code to fix the use of Data classes and put the classes to the right place using DDD.
 * Configure and testing Circuit Breaker with Hystrix
-* Configure and testing Load Balancing using Zuul
+* Configure and testing Load Balancing using Ribbon
 * Test Service Discovery using the configured Eureka
 * Test the Actuator
 * Fix Swagger
