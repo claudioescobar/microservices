@@ -8,6 +8,7 @@ Person is responsible for managing users and integrate with external resources f
 ItemCatalog is responsible for registering generic items where each item has a Person, so this microservice integrates with Person microservice using Feign Client.
 
 **URLS**
+
 Eureka server: http://localhost:8761/
 
 ItemCatalog swagger: http://localhost:8088/swagger-ui.html
